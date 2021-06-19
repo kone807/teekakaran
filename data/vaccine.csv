@@ -1,0 +1,11 @@
+m_id,v_id,v_name,v_type,v_price,v_manufacture_date,v_expiry_date,storage_temp
+10,1,Topiramate,syrup,344109.01,2020-10-15,2022-06-07,8.23
+9,2,Guaifenesin,syringe,419588.1,2020-07-30,2022-01-30,6.59
+8,3,Prednisone,syrup,228262.83,2020-09-16,2022-10-25,17.73
+7,4,BENZALKONIUM CHLORIDE,syringe,347473.65,2020-11-30,2022-09-12,15.28
+6,5,citalopram hydrobromide,nasal spray,102873.27,2020-05-27,2022-09-16,18.29
+5,6,CP2D/AS-3 Anticoagulant and Additive System,nasal spray,362573.56,2020-04-19,2022-01-06,5.7
+4,7,PREGABALIN,syringe,478914.39,2020-10-18,2022-12-04,17.41
+3,8,"Lidocaine hydrochloride, epinephrine bitartrate injection, solution",syrup,327872.85,2020-05-05,2022-02-26,15.5
+2,9,SALICYLIC ACID,syrup,312358.82,2020-06-05,2022-03-03,17.5
+1,10,Benazepril Hydrochloride,syringe,336607.88,2020-03-23,2022-11-29,8.03

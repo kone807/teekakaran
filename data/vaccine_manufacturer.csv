@@ -1,0 +1,11 @@
+m_id,m_name,m_capacity,m_num_employees,orders_completed,orders_remaining,p_id
+1,Exemestane biotech,147,282,145,144,7
+2,HACCP Flat Top E-2 biotech,510,298,7,142,33
+3,Glimepiride biotech,978,445,48,184,28
+4,LYM D biotech,738,385,83,61,38
+5,Losartan Potassium and Hydrochlorothiazide biotech,737,290,1,16,2
+6,ADVAIR biotech,894,153,27,102,36
+7,Gentamicin Sulfate in Sodium Chloride biotech,941,427,101,69,37
+8,TRICOR biotech,369,390,81,96,29
+9,Cold Sore Treatment biotech,140,488,134,172,7
+10,Allergy and Congestion Relief biotech,110,416,71,188,42

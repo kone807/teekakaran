@@ -1,0 +1,10 @@
+insert into MOCK_DATA (m_id, v_id, v_name, v_type, v_price, v_manufacture_date, v_expiry_date, storage_temp) values (10, 1, 'Hydrocortisone Acetate', 'syrup', 599146.0, '2020-03-14', '2022-09-17', 15.07);
+insert into MOCK_DATA (m_id, v_id, v_name, v_type, v_price, v_manufacture_date, v_expiry_date, storage_temp) values (9, 2, 'Ibuprofen', 'nasal spray', 170833.28, '2020-03-14', '2022-07-23', 9.51);
+insert into MOCK_DATA (m_id, v_id, v_name, v_type, v_price, v_manufacture_date, v_expiry_date, storage_temp) values (8, 3, 'PYRITHIONE ZINC', 'syrup', 224050.0, '2020-08-24', '2022-04-18', 6.97);
+insert into MOCK_DATA (m_id, v_id, v_name, v_type, v_price, v_manufacture_date, v_expiry_date, storage_temp) values (7, 4, 'RANOLAZINE', 'nasal spray', 573610.93, '2020-11-20', '2022-11-11', 18.27);
+insert into MOCK_DATA (m_id, v_id, v_name, v_type, v_price, v_manufacture_date, v_expiry_date, storage_temp) values (6, 5, 'CYCLOBENZAPRINE HYDROCHLORIDE', 'nasal spray', 562746.29, '2020-04-23', '2022-09-16', 15.53);
+insert into MOCK_DATA (m_id, v_id, v_name, v_type, v_price, v_manufacture_date, v_expiry_date, storage_temp) values (5, 6, 'Chlordiazepoxide Hydrochloride and Clidinium Bromide', 'syringe', 182100.0, '2020-12-03', '2022-05-09', 16.83);
+insert into MOCK_DATA (m_id, v_id, v_name, v_type, v_price, v_manufacture_date, v_expiry_date, storage_temp) values (4, 7, 'Titanium Dioxide', 'nasal spray', 582129.91, '2020-09-01', '2022-04-30', 8.21);
+insert into MOCK_DATA (m_id, v_id, v_name, v_type, v_price, v_manufacture_date, v_expiry_date, storage_temp) values (3, 8, 'Lidocaine Hydrochloride', 'syringe', 362193.9, '2020-11-02', '2022-09-24', -1.12);
+insert into MOCK_DATA (m_id, v_id, v_name, v_type, v_price, v_manufacture_date, v_expiry_date, storage_temp) values (2, 9, 'levothyroxine sodium', 'nasal spray', 555320.53, '2020-06-02', '2022-12-12', 5.02);
+insert into MOCK_DATA (m_id, v_id, v_name, v_type, v_price, v_manufacture_date, v_expiry_date, storage_temp) values (1, 10, 'Pyrithions Zinc', 'nasal spray', 381521.48, '2020-12-06', '2022-04-04', 5.72);

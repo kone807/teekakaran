@@ -1,0 +1,10 @@
+insert into MOCK_DATA (m_id, m_name, m_capacity, m_num_employees, orders_completed, orders_remaining, p_id) values (1, 'Antabuse biotech', 265, 430, 109, 152, 4);
+insert into MOCK_DATA (m_id, m_name, m_capacity, m_num_employees, orders_completed, orders_remaining, p_id) values (2, 'SF biotech', 692, 329, 67, 138, 29);
+insert into MOCK_DATA (m_id, m_name, m_capacity, m_num_employees, orders_completed, orders_remaining, p_id) values (3, 'pain relief biotech', 576, 184, 142, 200, 26);
+insert into MOCK_DATA (m_id, m_name, m_capacity, m_num_employees, orders_completed, orders_remaining, p_id) values (4, 'headache formula biotech', 521, 281, 89, 182, 23);
+insert into MOCK_DATA (m_id, m_name, m_capacity, m_num_employees, orders_completed, orders_remaining, p_id) values (5, 'Degree biotech', 929, 210, 142, 138, 8);
+insert into MOCK_DATA (m_id, m_name, m_capacity, m_num_employees, orders_completed, orders_remaining, p_id) values (6, 'Parcopa biotech', 393, 445, 103, 78, 4);
+insert into MOCK_DATA (m_id, m_name, m_capacity, m_num_employees, orders_completed, orders_remaining, p_id) values (7, 'Methyldopa biotech', 182, 324, 179, 28, 6);
+insert into MOCK_DATA (m_id, m_name, m_capacity, m_num_employees, orders_completed, orders_remaining, p_id) values (8, 'Morphine sulfate biotech', 120, 184, 53, 180, 44);
+insert into MOCK_DATA (m_id, m_name, m_capacity, m_num_employees, orders_completed, orders_remaining, p_id) values (9, 'Ananassa Resina biotech', 563, 479, 47, 123, 47);
+insert into MOCK_DATA (m_id, m_name, m_capacity, m_num_employees, orders_completed, orders_remaining, p_id) values (10, 'Super HG biotech', 721, 362, 130, 95, 32);
